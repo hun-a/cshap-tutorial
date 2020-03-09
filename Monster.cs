@@ -23,19 +23,19 @@ namespace TextRPG {
 
   class Slime: Monster {
     public Slime(): base(MonsterType.Slime) {
-      SetInfo(10, 1);
+      SetInfo(10, 10);
     }
   }
 
   class Orc : Monster {
     public Orc() : base(MonsterType.Orc) {
-      SetInfo(20, 2);
+      SetInfo(20, 15);
     }
   }
 
   class Skeleton : Monster {
     public Skeleton() : base(MonsterType.Skeleton) {
-      SetInfo(15, 5);
+      SetInfo(15, 20);
     }
   }
 }
