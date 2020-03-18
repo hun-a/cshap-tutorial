@@ -15,4 +15,4 @@
 
 ### Third tutorial: Advanced features in C#
 - [generic](src/generic)
-- [interface](src/abstraction)
+- [abstraction](src/abstraction)
