@@ -17,3 +17,4 @@
 - [generic](src/generic)
 - [abstraction](src/abstraction)
 - [property](src/property)
+- [delegate](src/delegate)
