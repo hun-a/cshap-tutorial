@@ -19,3 +19,4 @@
 - [property](src/features/property)
 - [delegate](src/features/delegate)
 - [event](src/features/event)
+- [lambda](src/features/lambda)
